@@ -1,0 +1,5 @@
+﻿  Building 'KeInjectR3' with toolset 'WindowsApplicationForDrivers10.0' and the 'Desktop' target platform.
+  main.cpp
+main.cpp(83): warning C4007: “main”: 必须是“__cdecl”
+  KeInjectR3.vcxproj -> E:\ProjectV\KeInject\Debug\KeInjectR3.exe
+  KeInjectR3.vcxproj -> E:\ProjectV\KeInject\Debug\KeInjectR3.pdb (Full PDB)
