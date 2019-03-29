@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+<OACRDEFECTCOUNT>1</OACRDEFECTCOUNT>
+<OACRERRORCOUNT>0</OACRERRORCOUNT>
+<DEFECT _seq="1"><SFA><LINE>345</LINE><COLUMN>25</COLUMN><FILENAME>inject.c</FILENAME><FILEPATH>e:\code\keinject\keinject\</FILEPATH></SFA><DEFECTCODE>28182</DEFECTCODE><DESCRIPTION>Dereferencing NULL pointer. 'pPEProcess' contains the same NULL value as 'pPEProcess' did. See line 344 for an earlier location where this can occur.</DESCRIPTION><FUNCTION>FindEProcess</FUNCTION><FUNCLINE>339</FUNCLINE><PATH><SFA><LINE>343</LINE><COLUMN>15</COLUMN><FILENAME>inject.c</FILENAME><FILEPATH>e:\code\keinject\keinject\</FILEPATH></SFA><SFA><LINE>344</LINE><COLUMN>10</COLUMN><FILENAME>inject.c</FILENAME><FILEPATH>e:\code\keinject\keinject\</FILEPATH></SFA><SFA><LINE>345</LINE><COLUMN>25</COLUMN><FILENAME>inject.c</FILENAME><FILEPATH>e:\code\keinject\keinject\</FILEPATH></SFA></PATH></DEFECT>
+</DEFECTS>

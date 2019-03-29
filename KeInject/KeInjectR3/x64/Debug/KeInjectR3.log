@@ -1,0 +1,14 @@
+﻿  Building 'KeInjectR3' with toolset 'WindowsApplicationForDrivers10.0' and the 'Desktop' target platform.
+  main.cpp
+main.cpp(48): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“HANDLE”
+main.cpp(48): warning C4313: “printf”: 格式字符串中的“%d”与“HANDLE”类型的参数 1 冲突
+main.cpp(50): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“HANDLE”
+main.cpp(50): warning C4313: “printf”: 格式字符串中的“%d”与“HANDLE”类型的参数 1 冲突
+main.cpp(60): warning C4473: “wscanf_s”: 没有为格式字符串传递足够的参数
+  main.cpp(60): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  main.cpp(60): note: 缺失的可变参数 2 为格式字符串“%s”所需
+  main.cpp(60): note: 此参数用作缓冲区大小
+main.cpp(73): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“HANDLE”
+main.cpp(73): warning C4313: “printf”: 格式字符串中的“%d”与“HANDLE”类型的参数 1 冲突
+  KeInjectR3.vcxproj -> E:\code\KeInject\x64\Debug\KeInjectR3.exe
+  KeInjectR3.vcxproj -> E:\code\KeInject\x64\Debug\KeInjectR3.pdb (Full PDB)

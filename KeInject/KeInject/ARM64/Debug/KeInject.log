@@ -1,0 +1,168 @@
+﻿  Building 'KeInject' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Apc.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(12756): error C4013: “UnsignedMultiplyHigh”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(18945): error C4013: “_DataSynchronizationBarrier”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(19349): error C4013: “__readx18dword”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(19381): error C4013: “MemoryBarrier”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(21843): error C4013: “DbgRaiseAssertionFailure”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(30822): error C4013: “InterlockedExchangePointer”未定义；假设外部返回 int
+e:\code\keinject\keinject\Apc.h(155): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(166): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(177): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(279): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(280): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(308): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(309): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(315): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(316): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(317): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(318): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(319): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(320): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(321): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(322): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(323): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(324): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(325): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(326): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(327): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(328): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(329): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(330): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(331): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(332): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(428): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(429): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(453): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(454): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(460): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(461): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(462): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(463): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(464): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(465): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(466): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(467): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(468): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(469): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(470): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(471): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(472): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(473): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(474): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(475): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(476): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(477): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(575): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(576): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(602): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(603): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(609): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(610): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(611): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(612): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(613): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(614): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(615): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(616): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(617): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(618): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(619): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(620): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(621): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(622): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(623): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(624): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(625): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(626): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+Apc.c(75): error C2440: “函数”: 无法从“void (__cdecl *)(PKAPC,PKNORMAL_ROUTINE *,PVOID *,PVOID *,PVOID *)”转换为“PKKERNEL_ROUTINE”
+Apc.c(75): warning C4024: “KeInitializeApc”: 形参和实参 4 的类型不同
+Apc.c(86): error C2440: “函数”: 无法从“void (__cdecl *)(PKAPC,PKNORMAL_ROUTINE *,PVOID *,PVOID *,PVOID *)”转换为“PKKERNEL_ROUTINE”
+Apc.c(86): warning C4024: “KeInitializeApc”: 形参和实参 4 的类型不同
+Apc.c(88): warning C4055: “类型转换”: 从数据指针“PVOID”到函数指针“PKNORMAL_ROUTINE”
+  Inject.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(12756): error C4013: “UnsignedMultiplyHigh”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(18945): error C4013: “_DataSynchronizationBarrier”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(19349): error C4013: “__readx18dword”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(19381): error C4013: “MemoryBarrier”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(21843): error C4013: “DbgRaiseAssertionFailure”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(30822): error C4013: “InterlockedExchangePointer”未定义；假设外部返回 int
+e:\code\keinject\keinject\Apc.h(155): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(166): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(177): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(279): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(280): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(308): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(309): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(315): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(316): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(317): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(318): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(319): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(320): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(321): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(322): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(323): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(324): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(325): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(326): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(327): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(328): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(329): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(330): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(331): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(332): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(428): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(429): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(453): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(454): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(460): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(461): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(462): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(463): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(464): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(465): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(466): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(467): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(468): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(469): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(470): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(471): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(472): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(473): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(474): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(475): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(476): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(477): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(575): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(576): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(602): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(603): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(609): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(610): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(611): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(612): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(613): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(614): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(615): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(616): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(617): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(618): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(619): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(620): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(621): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(622): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(623): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(624): warning C4214: 使用了非标准扩展: 整形以外的位域类型
+e:\code\keinject\keinject\Apc.h(625): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+e:\code\keinject\keinject\Apc.h(626): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+Inject.c(263): warning C4047: “==”:“ULONG”与“void *”的间接级别不同
+  main.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(12756): error C4013: “UnsignedMultiplyHigh”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(18945): error C4013: “_DataSynchronizationBarrier”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(19349): error C4013: “__readx18dword”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(19381): error C4013: “MemoryBarrier”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(21843): error C4013: “DbgRaiseAssertionFailure”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\km\wdm.h(30822): error C4013: “InterlockedExchangePointer”未定义；假设外部返回 int
+main.c(64): warning C4305: “类型转换”: 从“ULONG64”到“HANDLE”截断
+main.c(43): warning C4189: “ulInputSize”: 局部变量已初始化但不引用

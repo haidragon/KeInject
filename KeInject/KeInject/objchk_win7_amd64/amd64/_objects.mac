@@ -1,0 +1,18 @@
+
+
+AMD64_OBJECTS=\
+ $(OBJ_PATH)\$O\apc.obj \
+ $(OBJ_PATH)\$O\inject.obj \
+ $(OBJ_PATH)\$O\main.obj \
+
+
+
+
+
+# lowercased
+BASEDIR=f:\winddk\7600.16385.1
+OBJECT_ROOT=f:\winddk\7600.16385.1
+MAKEDIR_LOWERCASE=e:\code\keinject\keinject
+OBJ_PATH=e:\code\keinject\keinject
+CONCURRENT_MIDL=0
+CONCURRENT_MANIFEST_BUILD=0

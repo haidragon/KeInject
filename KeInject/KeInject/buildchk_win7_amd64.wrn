@@ -1,0 +1,6 @@
+1>warnings in directory e:\code\keinject\keinject
+1>e:\code\keinject\keinject\inject.c(59) : warning C4047: 'initializing' : 'SIZE_T' differs in levels of indirection from 'void *'
+1>e:\code\keinject\keinject\inject.c(78) : warning C4090: '=' : different 'const' qualifiers
+1>e:\code\keinject\keinject\inject.c(128) : warning C4047: 'initializing' : 'USHORT' differs in levels of indirection from 'void *'
+1>e:\code\keinject\keinject\inject.c(285) : warning C4047: '==' : 'ULONG' differs in levels of indirection from 'void *'
+1>e:\code\keinject\keinject\main.c(97) : warning C4716: 'DeviceControlDispatch' : must return a value
